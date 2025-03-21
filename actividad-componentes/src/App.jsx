@@ -8,7 +8,7 @@ function App() {
   return (
     <>
 
-     <h1>Mi informacion personal</h1>
+     <h1>Info personal xd</h1>
      <br />
      
 
